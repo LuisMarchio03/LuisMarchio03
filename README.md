@@ -4,11 +4,9 @@
 - 📫 Redes sociais...
 
 - https://www.instagram.com/luis_marchio/?hl=pt-br
--
+  <br>
 - https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/guided/add-skills/skills/?contextType=PROFILE_COMPLETION_METER&flowTrackingId=NMMST%2FCrTKeq32kZ66NxEw%3D%3D
-
--
--
+<br>
 
 - [Certificado Agência Web.pdf](https://github.com/LuisMarchio03/LuisMarchio03/files/6365681/Certificado.Agencia.Web.pdf)
 
