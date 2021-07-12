@@ -1,30 +1,19 @@
-**👋 Olá, me chamo Luís Gabriel, sou desenvolvedor de sites e sistemas. Tenho 18 anos, sou entusiasta de tecnologia e apaixonado por programação, comecei meus estudos de programação aos meus 13 anos.**
+# Luís Gabriel Marchió Batista
 
-**Comecei a aprender programação como uma forma de "brincadeira", a partir dos meus 14 anos comecei a levar realmente a serio, foi quando comecei a fazer cursinhos básicos. Por volta dos meus 15 anos, comprei os curso "Full-Stack" da Danki.code, onde realmente me profissionalizei na área,  hj após muito tempo de estudo, tenho domínio sobre diversas tecnologias e me sinto capacitado para entrar no mercado de trabalha.**
+👋 Olá, me chamo Luís Gabriel, sou desenvolvedor de sites e sistemas. Tenho 18 anos, sou entusiasta de tecnologia e apaixonado por programação, comecei meus estudos de programação aos meus 13 anos.
 
-**Resumo da experiência profissional:**
-**Estou dando os meus primeiros passos com desenvolvedor web agora. Trabalhei em diversos projetos pessoais, e projetos para amigos. Estou sempre disposto a aprender as mais diversas áreas, buscando sempre me profissionalizar cada vez mais em desenvolvimento web**
+Comecei a aprender programação como uma forma de "brincadeira", a partir dos meus 14 anos comecei a levar realmente a serio, foi quando comecei a fazer cursinhos básicos. Por volta dos meus 15 anos, comprei os curso "Full-Stack" da Danki.code, onde realmente me profissionalizei na área, hj após muito tempo de estudo, tenho domínio sobre diversas tecnologias e me sinto capacitado para entrar no mercado de trabalha.
 
- <br>
+Resumo da experiência profissional: Estou dando os meus primeiros passos com desenvolvedor web agora. Trabalhei em diversos projetos pessoais, e projetos para amigos. Estou sempre disposto a aprender as mais diversas áreas, buscando sempre me profissionalizar cada vez mais em desenvolvimento web
 
-- 🌱 Estou me aperfeiçoando em React.js, Next.js e Typescript ...
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/)](https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisgabrielmarchio75@gmail.com)](mailto:luisgabrielmarchio75@gmail.com)
 
-- 📫 Redes sociais:
- <br>
+**Tecnologias:**
 
-- https://www.instagram.com/luis_marchio/?hl=pt-br
-  <br>
-- https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/guided/add-skills/skills/?contextType=PROFILE_COMPLETION_METER&flowTrackingId=NMMST%2FCrTKeq32kZ66NxEw%3D%3D
-<br>
 
-- 🎇 Meus Certificados:
- <br>
 
-- [Certificado Agência Web.pdf](https://github.com/LuisMarchio03/LuisMarchio03/files/6365681/Certificado.Agencia.Web.pdf)
+<p align="justify">
 
-- [Certificado Curso Design Para Web.pdf](https://github.com/LuisMarchio03/LuisMarchio03/files/6365682/Certificado.Curso.Design.Para.Web.pdf)
-
-- [Certificado Web Design Express.pdf](https://github.com/LuisMarchio03/LuisMarchio03/files/6365683/Certificado.Web.Design.Express.pdf)
-
-- [Certificado Front-End Completo.pdf](https://github.com/LuisMarchio03/LuisMarchio03/files/6365684/Certificado.Front-End.Completo.pdf)
+</p>
 
