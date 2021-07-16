@@ -16,7 +16,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/React-5ed3f3?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/React-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Estudando:**
