@@ -19,6 +19,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/Next.js-4a4a4a?style=for-the-badge&logo=Next.js&logoColor=white)
+![image](https://img.shields.io/badge/Firebase-1a73e8?style=for-the-badge&logo=Firebase&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Estudando:**
@@ -26,6 +27,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 <p align="justify">
 
