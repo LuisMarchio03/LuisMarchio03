@@ -20,6 +20,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/Next.js-4a4a4a?style=for-the-badge&logo=Next.js&logoColor=white)
 ![image](https://img.shields.io/badge/Firebase-1a73e8?style=for-the-badge&logo=Firebase&logoColor=white)
+![image](https://img.shields.io/badge/Supabase-3cc98a?style=for-the-badge&logo=Supabase&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Estudando:**
