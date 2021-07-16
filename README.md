@@ -22,7 +22,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 **Estudando:**
 
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/graphql-7248b6?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 
 <p align="justify">
 
