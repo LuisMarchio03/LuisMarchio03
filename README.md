@@ -29,7 +29,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
 
-**Tenho interesses:**
+**Tenho interesse:**
 
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
