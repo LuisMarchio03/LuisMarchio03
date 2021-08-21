@@ -24,11 +24,15 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 **Estudando:**
 
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
+
+**Interesses:**
+
+![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
 
 <p align="justify">
 
