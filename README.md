@@ -10,7 +10,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisgabrielmarchio75@gmail.com)](mailto:luisgabrielmarchio75@gmail.com)
 
 
-**Tecnologias:**
+**Tenho experiência:**
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/Next.js-4a4a4a?style=for-the-badge&logo=Next.js&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Estudando:**
+**Estou estudando:**
 
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -29,7 +29,7 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
 
-**Interesses:**
+**Tenho interesses:**
 
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
