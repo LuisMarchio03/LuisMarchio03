@@ -38,6 +38,7 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
 
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
+![image](https://img.shields.io/badge/python-f1ca2a?style=for-the-badge&logo=python&logoColor=black)
 
 <p align="justify">
 
