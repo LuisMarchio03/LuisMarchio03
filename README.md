@@ -16,6 +16,12 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 </div>
 
 **Tenho experiência:**
+ 
+ <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-react-original colored"></i>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
