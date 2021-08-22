@@ -9,6 +9,11 @@ Resumo da experiência profissional: Estou dando os meus primeiros passos com de
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/)](https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisgabrielmarchio75@gmail.com)](mailto:luisgabrielmarchio75@gmail.com)
 
+ <div>
+  <a href="https://github.com/LuisMarchio03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 **Tenho experiência:**
 
