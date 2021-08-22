@@ -4,7 +4,6 @@
 
 Comecei a aprender programação como uma forma de "brincadeira", a partir dos meus 14 anos comecei a levar realmente a serio, foi quando comecei a fazer cursinhos básicos. Por volta dos meus 15 anos, comprei os curso "Full-Stack" da Danki.code, onde realmente me profissionalizei na área.
 
-<div> 
   <a href="https://www.instagram.com/luismarchio03.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -12,7 +11,6 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
   <a href = "mailto:luisgabrielmarchio75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
  
  ##
 
