@@ -32,12 +32,12 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
 ![image](https://img.shields.io/badge/Next.js-4a4a4a?style=for-the-badge&logo=Next.js&logoColor=white)
  ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/express-10aa50?style=for-the-badge&logo=express&logoColor=white)
+ ![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Estou estudando:**
 
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
