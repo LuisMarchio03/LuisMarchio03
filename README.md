@@ -23,7 +23,7 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
  
  
 <div>
-  <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username={LuisMarchio03}&theme=blue-green"/>
+  <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&theme=blue-green"/>
 </div>
 
 
