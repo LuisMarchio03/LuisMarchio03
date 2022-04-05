@@ -49,9 +49,10 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
 
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
 ![image](https://img.shields.io/badge/GoLang-29a7d0?style=for-the-badge&logo=go&logoColor=white)
+
+**Faculdade:**
+ 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
 
  
 <p align="justify">
