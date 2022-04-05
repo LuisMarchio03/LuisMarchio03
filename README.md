@@ -34,19 +34,23 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
  ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/express-10aa50?style=for-the-badge&logo=express&logoColor=white)
  ![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+ ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Estou estudando:**
 
-![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+ ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Tenho interesse:**
 
-![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
+
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
 ![image](https://img.shields.io/badge/GoLang-29a7d0?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 
  
