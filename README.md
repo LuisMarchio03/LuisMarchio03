@@ -23,14 +23,14 @@ Comecei a aprender programação como uma forma de "brincadeira", a partir dos m
 
 **Tenho experiência:**
  
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Sass-c76494?style=for-the-badge&logo=Sass&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/Sass-c76494?style=for-the-badge&logo=Sass&logoColor=white) -->
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/Next.js-4a4a4a?style=for-the-badge&logo=Next.js&logoColor=white)
- ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
+<!--  ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white) -->
  ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/express-10aa50?style=for-the-badge&logo=express&logoColor=white)
  ![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
