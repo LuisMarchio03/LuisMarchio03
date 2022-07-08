@@ -1,8 +1,9 @@
 # Luís Gabriel Marchió Batista
 
-👋 Olá, me chamo Luís Gabriel, sou desenvolvedor de sites e sistemas. Tenho 18 anos, sou entusiasta de tecnologia e apaixonado por programação.
+👋 Meu nome é Luis Gabriel Marchió Batista, sou aluno do 2 período de Sistemas de Informação na Unifimes, Centro Universitário de Mineiros. 
+Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogos eletrônicos e livros de ficção.
 
-Comecei a aprender programação como uma forma de "brincadeira", a partir dos meus 14 anos comecei a levar realmente a serio, foi quando comecei a fazer cursinhos básicos. Por volta dos meus 15 anos, comprei os curso "Full-Stack" da Danki.code, onde realmente me profissionalizei na área.
+🚀 Despertei interesse por programação por volta de 2019, quando senti a necessidade de criar modificações em jogos single player, para aprimorar minha experiencia. Fiquei impressionado com a possibilidade de criar qualquer coisa que eu quisesse por meio da programação. Foi então que descobri a minha paixão por desenvolvimento web.
  
  <div> 
   <a href="https://www.instagram.com/luismarchio03.dev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
