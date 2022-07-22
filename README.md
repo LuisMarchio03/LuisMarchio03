@@ -1,7 +1,7 @@
 # Luís Gabriel Marchió Batista
 
 👋 Meu nome é Luis Gabriel Marchió Batista, sou aluno do 2 período de Sistemas de Informação na Unifimes, Centro Universitário de Mineiros. 
-Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogos eletrônicos e livros de ficção.
+Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogos de videogames e livros de ficção.
 
 🚀 Despertei interesse por programação por volta de 2019, quando senti a necessidade de criar modificações em jogos single player, para aprimorar minha experiencia. Fiquei impressionado com a possibilidade de criar qualquer coisa que eu quisesse por meio da programação. Foi então que descobri a minha paixão por desenvolvimento web.
  
