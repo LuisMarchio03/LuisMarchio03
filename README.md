@@ -48,7 +48,7 @@ Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogo
 **Tenho interesse:**
 
 
-![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
+![image](https://img.shields.io/badge/cypress-4a4a4a?style=for-the-badge&logo=cypress&logoColor=white)
 
 
 **Faculdade:**
