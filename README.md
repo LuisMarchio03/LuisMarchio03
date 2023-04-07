@@ -35,6 +35,7 @@ Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogo
  ![image](https://img.shields.io/badge/Node.js-7fc728?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/express-10aa50?style=for-the-badge&logo=express&logoColor=white)
  ![image](https://img.shields.io/badge/PostgreSQL-45739e?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+ ![image](https://img.shields.io/badge/MySQL-EBAE48?style=for-the-badge&logo=MySQL&logoColor=black)
  ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
