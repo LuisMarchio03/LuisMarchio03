@@ -1,9 +1,10 @@
 # Luís Gabriel Marchió Batista
 
-👋 Meu nome é Luis Gabriel Marchió Batista, sou aluno do 2 período de Sistemas de Informação na Unifimes, Centro Universitário de Mineiros. 
-Nasci em Mineiros Goias, Brasil, em 20 de março de 2003. Gosto bastante de jogos de videogames e livros de ficção.
+👋 Curso sistemas de informação, na faculdade UNIFIMES, Centro Universitário de Mineiros. Atualmente me considero um desenvolvedor full-stack júnior e completamente apaixonado por backend.
 
-🚀 Despertei interesse por programação por volta de 2019, quando senti a necessidade de criar modificações em jogos single player, para aprimorar minha experiencia. Fiquei impressionado com a possibilidade de criar qualquer coisa que eu quisesse por meio da programação. Foi então que descobri a minha paixão por desenvolvimento web.
+🚀 Entre 2019, comecei a despertar interesse por programação, anteriormente eu já avia alterado alguns códigos de jogos no computador, porem fui realmente começar a estudar serio a partir de 2019.
+
+🚀 Atualmente eu tenho conhecimento na seguinte stack: HTML5, CSS3, Javascript, Typescript ReactJs, NodeJs, Docker, Git, SQL, NoSQL, GoLang.
  
  <div> 
   <a href="https://www.instagram.com/luismarchio03.dev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
