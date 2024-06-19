@@ -2,18 +2,26 @@
 
 Sou um desenvolvedor full-stack pleno com uma paixão especial pelo backend, atualmente cursando Sistemas de Informação na UNIFIMES, Centro Universitário de Mineiros. Meu interesse por programação começou em 2019, quando decidi estudar de forma séria e aprofundada, embora já tivesse experimentado com a modificação de códigos de jogos anteriormente.
 
-Experiência e Habilidades:
+**Experiência e Habilidades:**
+
 Tenho uma sólida experiência em desenvolvimento web, utilizando diversas tecnologias modernas. Minha stack de conhecimento inclui:
 
-Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJs
-Backend: NodeJs, GoLang
-DevOps: Docker
-Controle de Versão: Git
-Bancos de Dados: SQL, NoSQL
-Objetivos e Projetos
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, ReactJs
+
+**Backend:** NodeJs, GoLang
+
+**DevOps:** Docker
+
+**Controle de Versão:** Git
+
+**Bancos de Dados:** SQL, NoSQL
+
+**Objetivos e Projetos:**
+
 Atualmente, estou trabalhando como full-stack pleno. Estou constantemente buscando expandir meus conhecimentos e habilidades para alcançar um nível sênior no futuro.
 
-Contato:
+**Contato:**
+
 Estou sempre aberto a colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, projetos ou simplesmente trocar conhecimentos sobre desenvolvimento de software.
  
  <div> 
