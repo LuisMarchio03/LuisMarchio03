@@ -1,10 +1,20 @@
 # Luís Gabriel Marchió Batista
 
-👋 Curso sistemas de informação, na faculdade UNIFIMES, Centro Universitário de Mineiros. Atualmente me considero um desenvolvedor full-stack júnior e completamente apaixonado por backend.
+Sou um desenvolvedor full-stack pleno com uma paixão especial pelo backend, atualmente cursando Sistemas de Informação na UNIFIMES, Centro Universitário de Mineiros. Meu interesse por programação começou em 2019, quando decidi estudar de forma séria e aprofundada, embora já tivesse experimentado com a modificação de códigos de jogos anteriormente.
 
-🚀 Entre 2019, comecei a despertar interesse por programação, anteriormente eu já avia alterado alguns códigos de jogos no computador, porem fui realmente começar a estudar serio a partir de 2019.
+Experiência e Habilidades:
+Tenho uma sólida experiência em desenvolvimento web, utilizando diversas tecnologias modernas. Minha stack de conhecimento inclui:
 
-🚀 Atualmente eu tenho conhecimento na seguinte stack: HTML5, CSS3, Javascript, Typescript ReactJs, NodeJs, Docker, Git, SQL, NoSQL, GoLang.
+Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJs
+Backend: NodeJs, GoLang
+DevOps: Docker
+Controle de Versão: Git
+Bancos de Dados: SQL, NoSQL
+Objetivos e Projetos
+Atualmente, estou trabalhando como full-stack pleno. Estou constantemente buscando expandir meus conhecimentos e habilidades para alcançar um nível sênior no futuro.
+
+Contato:
+Estou sempre aberto a colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir ideias, projetos ou simplesmente trocar conhecimentos sobre desenvolvimento de software.
  
  <div> 
   <a href="https://www.instagram.com/luismarchio03.dev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
