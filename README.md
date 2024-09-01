@@ -57,7 +57,9 @@
 
 ###
 
-<h3>Faculdade</h3>
+<h4>Faculdade:</h4>
+
+###
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
