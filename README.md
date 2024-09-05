@@ -69,10 +69,33 @@
 
 ###
 
+<h4>Estudando:</h4>
+
+###
+
+<div>
+  <img  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp logo"  />
+    <img width="12" />
+    <img  height="30"  alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  />
+    <img width="12" />
+    <img  height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure logo"  />
+    <img width="12" />
+    <img  height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  />
+    <img width="12" />
+  <img  height="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana"  />
+    <img width="12" />
+  <img  height="30" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"  />
+    <img width="12" />
+  <img  height="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ"  />
+</div>
+
+
+###
+
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/LuisMarchio03/LuisMarchio03/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/LuisMarchio03/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
