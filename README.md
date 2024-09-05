@@ -69,17 +69,6 @@
 
 ###
 
-<h4>Estudando:</h4>
-
-###
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/grafana.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/csharp-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
 
 <br clear="both">
 
