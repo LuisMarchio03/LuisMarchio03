@@ -109,7 +109,7 @@
 ###
 
 <div style="background-color: #181818; padding: 10px; border-radius: 10px; text-align: center;">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luisgabrielmarchio75/0">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@luisgabrielmarchio75/0" alt="Recent Article 0" style="border-radius: 10px;">
   </a>
 </div>
