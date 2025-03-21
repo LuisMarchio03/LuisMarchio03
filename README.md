@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
     <img  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp logo"  />
+  <img width="12" />
+   <img  height="30"  alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  />
 </div>
 
 ###
@@ -93,14 +95,6 @@
 ###
 
 <h4>Estudando:</h4>
-
-###
-
-<div>
-    <img  height="30"  alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  />
-</div>
-
-###
 
 <div>
     <img  height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  />
