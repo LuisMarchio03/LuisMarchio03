@@ -2,7 +2,7 @@
 
 <h1 align="center">Luís Gabriel Marchió Batista</h1>
 <p align="center">
-  <strong>Full-Stack Developer | Software Architect in Progress | Founder @ Startup</strong>
+  <strong>Full-Stack Developer | Software Architect in Progress</strong>
 </p>
 
 ---
@@ -10,12 +10,12 @@
 ### 👨‍💻 Sobre mim | About Me
 
 **🇧🇷 PT-BR**
-Sou um desenvolvedor full-stack com foco em backend e arquitetura de software. Atuo como Pleno de Desenvolvimento de Sistemas e sou fundador de uma startup de desenvolvimento. Tenho mais de 3 anos de experiência em desenvolvimento web, trabalhando com C#, .NET, SQL Server, RabbitMQ, React, TypeScript e outros.
+Sou um desenvolvedor full-stack com foco em backend e arquitetura de software. Atuo como Desenvolvedor de Software Pleno. Tenho mais de 4 anos de experiência em desenvolvimento web, trabalhando atualmente com C#, .NET, SQL Server, Nextjs, TypeScript e outros.
 
 Estou cursando Sistemas de Informação na UNIFIMES e estudo para me tornar um desenvolvedor sênior full-cycle, com foco em microserviços, computação distribuída e IA.
 
 **🇺🇸 EN**
-I'm a full-stack developer focused on backend and software architecture. Currently working as a Mid-Level Systems Developer and founder of a software development startup. I have 3+ years of experience working with C#, .NET, SQL Server, RabbitMQ, React, TypeScript, among others.
+I'm a full-stack developer with a focus on backend and software architecture. I work as a Senior Software Developer. I have over 4 years of experience in web development, currently working with C#, .NET, SQL Server, Nextjs, TypeScript and others.
 
 I'm pursuing a degree in Information Systems at UNIFIMES and aiming to become a senior full-cycle developer with deep expertise in microservices, distributed systems, and AI.
 
