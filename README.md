@@ -1,102 +1,109 @@
-<h3 align="left">Hi 👋! My name is Luís Gabriel Marchió Batista and I'm a Full-Stack Developer from Brazil</h3>
+---
 
-###
+<h1 align="center">Luís Gabriel Marchió Batista</h1>
+<p align="center">
+  <strong>Full-Stack Developer | Software Architect in Progress | Founder @ Startup</strong>
+</p>
 
-<p align="left">I'm a Full-Stack Developer with 3 years of experience in web development, currently working as a Systems Development Analyst Pleno. As the founder of a software development startup, I thrive on creating innovative solutions and building efficient systems. My primary focus is on backend development, but I also enjoy working on frontend projects.<br><br>I'm pursuing a degree in Information Systems at UNIFIMES, Centro Universitário de Mineiros, where I'm constantly expanding my knowledge and skills. My goal is to reach a senior developer position, and I'm actively learning and growing in my field to achieve this.<br><br>In my free time, I love exploring new technologies and contributing to open-source projects. I'm always open to collaboration and eager to connect with fellow developers.</p>
+---
 
-###
+### 👨‍💻 Sobre mim | About Me
 
-<div align="left">
-   <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-   <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-   <a href="mailto:luisgabrielmarchio75@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-4a8b58287/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-   <a href="https://wa.me/5564999918525"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
-   <a href="https://medium.com/@luisgabrielmarchio75"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  /></a>
+**🇧🇷 PT-BR**
+Sou um desenvolvedor full-stack com foco em backend e arquitetura de software. Atuo como Pleno de Desenvolvimento de Sistemas e sou fundador de uma startup de desenvolvimento. Tenho mais de 3 anos de experiência em desenvolvimento web, trabalhando com C#, .NET, SQL Server, RabbitMQ, React, TypeScript e outros.
+
+Estou cursando Sistemas de Informação na UNIFIMES e estudo para me tornar um desenvolvedor sênior full-cycle, com foco em microserviços, computação distribuída e IA.
+
+**🇺🇸 EN**
+I'm a full-stack developer focused on backend and software architecture. Currently working as a Mid-Level Systems Developer and founder of a software development startup. I have 3+ years of experience working with C#, .NET, SQL Server, RabbitMQ, React, TypeScript, among others.
+
+I'm pursuing a degree in Information Systems at UNIFIMES and aiming to become a senior full-cycle developer with deep expertise in microservices, distributed systems, and AI.
+
+---
+
+### 🚀 Tech Stack
+
+**Main Languages & Frameworks:**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
 </div>
 
+**Databases & Messaging:**
 
-###
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="30" />
+</div>
 
+**DevOps & Monitoring:**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="30" />
+</div>
+
+**UI/UX & Others:**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+</div>
+
+---
+
+### 📚 Estudando | Currently Learning
+
+* AWS (Cloud & Infrastructure)
+* Machine Learning e Data Science (Python)
+* NLP (spaCy, FastAPI, LM Studio)
+* Arquitetura de Software, Clean Architecture e DDD
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMarchio03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-<h4>Stack:</h4>
-
-###
+### 🌐 Conecte-se comigo | Let's Connect
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-    <img  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp logo"  />
-  <img width="12" />
-   <img  height="30"  alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  />
+  <a href="mailto:luisgabrielmarchio75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-4a8b58287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/5564999918525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://medium.com/@luisgabrielmarchio75"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/luis_marchio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+### 🌟 Projeto em Destaque: ALOY - IA Pessoal Modular
 
-###
+**🇧🇷 PT-BR**
+ALOY é uma assistente virtual inteligente, modular e executada 100% localmente, criada para integrar tarefas, comandos por voz, automação residencial e muito mais. A arquitetura da ALOY é baseada em microserviços escritos em Go, Node.js e Python, com comunicação via HTTP e RabbitMQ.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-   <img width="12" />
-   <img  height="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana"  />
-   <img width="12" />
-  <img  height="30" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"  />
-    <img width="12" />
-  <img  height="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ"  />
-</div>
+A ALOY possui serviços especializados como NLP, TTS, STT, Scheduler, Smarthome LAN e uma interface visual integrada via Electron. O projeto explora conceitos de Dev Full-Cycle, NLP, computação distribuída, IA e automação inteligente.
 
-###
+A ALOY não é um projeto comercial.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+**🇺🇸 EN**
+ALOY is a smart, modular, and 100% local virtual assistant designed to centralize tasks, voice commands, home automation, and more. Its architecture is microservices-based, written in Go, Node.js, and Python, with communication via HTTP and RabbitMQ.
 
-###
+ALOY includes specialized services such as NLP, TTS, STT, Scheduler, Smarthome LAN, and a visual interface built with Electron. The project applies Dev Full-Cycle practices, distributed systems, AI, and smart automation.
 
-<h4>Faculdade:</h4>
-
-###
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<h4>Estudando:</h4>
-
-<div>
-    <img  height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  />
-</div>
-
+ALOY is not a commercial project.
