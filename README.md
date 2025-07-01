@@ -92,7 +92,7 @@ I'm pursuing a degree in Information Systems at UNIFIMES and aiming to become a 
 
 ---
 
-### 🌟 Projeto em Destaque: ALOY - IA Pessoal Modular
+### 🌟 Projeto em Destaque: Projeto ALOY - IA Pessoal Modular
 
 **🇧🇷 PT-BR**
 ALOY é uma assistente virtual inteligente, modular e executada 100% localmente, criada para integrar tarefas, comandos por voz, automação residencial e muito mais. A arquitetura da ALOY é baseada em microserviços escritos em Go, Node.js e Python, com comunicação via HTTP e RabbitMQ.
