@@ -38,8 +38,8 @@ Currently on a strategic trajectory toward **Software Architecture**, combining 
    - Container Orchestration & DevOps
 
 📚 Education:
-   - Graduated: Systems Engineering (UNIFIMES)
-   - Pursuing: Postgraduate in Software Engineering with AI
+   - Graduated: Sistemas de Informação (UNIFIMES)
+   - Pursuing:  ------
    - Research: ML/Deep Learning for Parkinson's Diagnosis
 
 🏆 On Track For:
