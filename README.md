@@ -180,7 +180,6 @@ Currently on a strategic trajectory toward **Software Architecture**, combining 
 | **ALOY AI Assistant** | Intelligent voice assistant with Alexa integration and local deployment | Node.js, Python, AWS |
 | **Order Pipeline** | Event-driven microservices architecture with CQRS pattern | .NET, RabbitMQ, SQL Server |
 | **Parkinson's ML Model** | Deep Learning model for Parkinson's disease diagnosis | TensorFlow, Python, Research |
-| **ProMedico Platform** | Healthcare system with complex database and real-time updates | C#, .NET, SQL Server, React |
 
 </div>
 
