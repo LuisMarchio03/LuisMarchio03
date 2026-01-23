@@ -13,7 +13,7 @@
 
 ## 🚀 Luís Gabriel Marchió Batista
 
-**Software Architect in Progress** | **Backend Specialist** | **Tech Explorer**
+**Software Architect in Progress** | **Backend Pleno** | **Tech Explorer**
 
 <p>
   <a href="https://linkedin.com/in/lmarchiodev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
