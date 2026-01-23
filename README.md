@@ -190,14 +190,14 @@ Currently on a strategic trajectory toward **Software Architecture**, combining 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🏗️  ARCHITECTURE      │  ☁️  CLOUD SYSTEMS   │  🤖  AI/ML   │
-│  • Design Patterns     │  • Azure Services   │  • NeuralNets│
-│  • Microservices       │  • Kubernetes       │  • MLOps     │
-│  • CQRS & Event Sourcing • Containerization │  • Healthcare│
-│  • API Design          │  • Infrastructure   │  • Computer  │
-│  • Scalability         │  • Security         │    Vision    │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏗️  ARCHITECTURE          │  ☁️  CLOUD SYSTEMS       │  🤖  AI/ML     │
+│  • Design Patterns         │  • Azure Services         │  • NeuralNets  │
+│  • Microservices           │  • Kubernetes             │  • MLOps       │
+│  • CQRS & Event Sourcing   |  • Containerization       │  • Healthcare  │
+│  • API Design              │  • Infrastructure         │  • Computer    │
+│  • Scalability             │  • Security               │    Vision      │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -207,7 +207,7 @@ Currently on a strategic trajectory toward **Software Architecture**, combining 
 ## 🌍 Languages
 
 - 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Professional/Technical
+- 🇺🇸 **English**: Basic/Technical
 
 ---
 
@@ -215,9 +215,9 @@ Currently on a strategic trajectory toward **Software Architecture**, combining 
 
 When not architecting systems, you'll find me:
 - 🎵 Exploring metal & rock subgenres
-- 🎮 Gaming: Path of Exile, Minecraft, Civilization
-- 📚 Reading about distributed systems & philosophy
-- 🥋 Training Muay Thai 3x/week
+- 🎮 Gaming
+- 📚 Reading about programming, mythologies, and classical Greek philosophy.
+- 🥋 Training Muay Thai
 - 🍳 Experimenting with recipes
 
 ---
@@ -233,8 +233,5 @@ When not architecting systems, you'll find me:
 
 <img src="https://komarev.com/ghpvc/?username=LuisMarchio03&color=4A90E2&style=flat-square" alt="Profile Views" />
 
-<br>
-
-*Architecting tomorrow's solutions, one deployment at a time.*
 
 </div>
