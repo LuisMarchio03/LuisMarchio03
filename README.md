@@ -1,109 +1,241 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&width=800&lines=Building+Scalable+Software+Architectures;Crafting+Elegant+Code+Solutions;Architecting+Distributed+Systems;Exploring+AI+%26+ML+Integration" alt="Typing SVG" />
+
+<br>
+
+</div>
+
 ---
 
-<h1 align="center">Luís Gabriel Marchió Batista</h1>
-<p align="center">
-  <strong>Full-Stack Developer | Software Architect in Progress</strong>
+<div align="center">
+
+## 🚀 Luís Gabriel Marchió Batista
+
+**Software Architect in Progress** | **Backend Specialist** | **Tech Explorer**
+
+<p>
+  <a href="https://linkedin.com/in/lmarchiodev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/LuisMarchio03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:luis.marchio@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim | About Me
+## 👨‍💻 About Me
 
-**🇧🇷 PT-BR**
-Sou um desenvolvedor full-stack com foco em backend e arquitetura de software. Atuo como Desenvolvedor de Software Pleno. Tenho mais de 4 anos de experiência em desenvolvimento web, trabalhando atualmente com C#, .NET, SQL Server, Nextjs, TypeScript e outros.
+**Pleno Backend Developer** with 4+ years building scalable systems and architecting microservices. Passionate about clean code, distributed systems, and transforming complex problems into elegant solutions.
 
-Estou cursando Sistemas de Informação na UNIFIMES e estudo para me tornar um desenvolvedor sênior full-cycle, com foco em microserviços, computação distribuída e IA.
+Currently on a strategic trajectory toward **Software Architecture**, combining hands-on development expertise with cloud-native thinking and emerging AI/ML technologies.
 
-**🇺🇸 EN**
-I'm a full-stack developer with a focus on backend and software architecture. I work as a Senior Software Developer. I have over 4 years of experience in web development, currently working with C#, .NET, SQL Server, Nextjs, TypeScript and others.
+```yaml
+🎯 Current Focus:
+   - Software Architecture & Design Patterns
+   - Microsoft Azure Cloud Services
+   - Event-Driven Architectures
+   - Machine Learning Integration in Healthcare
+   - Container Orchestration & DevOps
 
-I'm pursuing a degree in Information Systems at UNIFIMES and aiming to become a senior full-cycle developer with deep expertise in microservices, distributed systems, and AI.
+📚 Education:
+   - Graduated: Systems Engineering (UNIFIMES)
+   - Pursuing: Postgraduate in Software Engineering with AI
+   - Research: ML/Deep Learning for Parkinson's Diagnosis
 
----
+🏆 On Track For:
+   - Microsoft Azure Certifications (AZ-900 → Solutions Architect)
+   - Software Architecture specialization
+```
 
-### 🚀 Tech Stack
-
-**Main Languages & Frameworks:**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-</div>
-
-**Databases & Messaging:**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="30" />
-</div>
-
-**DevOps & Monitoring:**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="30" />
-</div>
-
-**UI/UX & Others:**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
 ---
 
-### 📚 Estudando | Currently Learning
+## 💼 Tech Ecosystem
 
-* AWS (Cloud & Infrastructure)
-* Machine Learning e Data Science (Python)
-* NLP (spaCy, FastAPI, LM Studio)
-* Arquitetura de Software, Clean Architecture e DDD
+<details open>
+<summary><b>🔧 Backend & Core Technologies</b></summary>
+<br>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET 6/7/8](https://img.shields.io/badge/.NET%206%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend & Presentation</b></summary>
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Data Systems</b></summary>
+<br>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📡 Messaging & Event Systems</b></summary>
+<br>
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</details>
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&layout=compact&theme=dracula" height="150" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisMarchio03&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
-### 🌐 Conecte-se comigo | Let's Connect
+## 🎯 Current Learning Path
 
-<div align="left">
-  <a href="mailto:luisgabrielmarchio75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-4a8b58287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/5564999918525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://medium.com/@luisgabrielmarchio75"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luis_marchio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   ARCHITECTURE ROADMAP                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  PHASE 1: Foundation Strengthening (In Progress)            ║
+║  ├─ ✅ Microservices Patterns & Best Practices              ║
+║  ├─ ✅ Distributed Systems Fundamentals                     ║
+║  ├─ 🔄 Cloud Architecture (Azure)                           ║
+║  └─ 🔄 Event-Driven Design                                  ║
+║                                                              ║
+║  PHASE 2: Cloud & AI Integration (Q1 2026)                  ║
+║  ├─ Microsoft Azure Solutions Architect (AZ-305)            ║
+║  ├─ Machine Learning Integration                            ║
+║  └─ MLOps & Model Deployment                                ║
+║                                                              ║
+║  PHASE 3: Architecture Mastery (Q2-Q3 2026)                 ║
+║  ├─ Advanced Design Patterns                                ║
+║  ├─ Team Leadership & Mentoring                             ║
+║  └─ Architecture Decision Records (ADRs)                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔬 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **ALOY AI Assistant** | Intelligent voice assistant with Alexa integration and local deployment | Node.js, Python, AWS |
+| **Order Pipeline** | Event-driven microservices architecture with CQRS pattern | .NET, RabbitMQ, SQL Server |
+| **Parkinson's ML Model** | Deep Learning model for Parkinson's disease diagnosis | TensorFlow, Python, Research |
+| **ProMedico Platform** | Healthcare system with complex database and real-time updates | C#, .NET, SQL Server, React |
+
 </div>
 
 ---
 
-### 🌟 Projeto em Destaque: Projeto ALOY - IA Pessoal Modular
+## 💡 Technical Interests
 
-**🇧🇷 PT-BR**
-ALOY é uma assistente virtual inteligente, modular e executada 100% localmente, criada para integrar tarefas, comandos por voz, automação residencial e muito mais. A arquitetura da ALOY é baseada em microserviços escritos em Go, Node.js e Python, com comunicação via HTTP e RabbitMQ.
+<div align="center">
 
-A ALOY possui serviços especializados como NLP, TTS, STT, Scheduler, Smarthome LAN e uma interface visual integrada via Electron. O projeto explora conceitos de Dev Full-Cycle, NLP, computação distribuída, IA e automação inteligente.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏗️  ARCHITECTURE      │  ☁️  CLOUD SYSTEMS   │  🤖  AI/ML   │
+│  • Design Patterns     │  • Azure Services   │  • NeuralNets│
+│  • Microservices       │  • Kubernetes       │  • MLOps     │
+│  • CQRS & Event Sourcing • Containerization │  • Healthcare│
+│  • API Design          │  • Infrastructure   │  • Computer  │
+│  • Scalability         │  • Security         │    Vision    │
+└─────────────────────────────────────────────────────────────┘
+```
 
-A ALOY não é um projeto comercial.
+</div>
 
-**🇺🇸 EN**
-ALOY is a smart, modular, and 100% local virtual assistant designed to centralize tasks, voice commands, home automation, and more. Its architecture is microservices-based, written in Go, Node.js, and Python, with communication via HTTP and RabbitMQ.
+---
 
-ALOY includes specialized services such as NLP, TTS, STT, Scheduler, Smarthome LAN, and a visual interface built with Electron. The project applies Dev Full-Cycle practices, distributed systems, AI, and smart automation.
+## 🌍 Languages
 
-ALOY is not a commercial project.
+- 🇧🇷 **Portuguese**: Native
+- 🇺🇸 **English**: Professional/Technical
+
+---
+
+## 🎮 Beyond Code
+
+When not architecting systems, you'll find me:
+- 🎵 Exploring metal & rock subgenres
+- 🎮 Gaming: Path of Exile, Minecraft, Civilization
+- 📚 Reading about distributed systems & philosophy
+- 🥋 Training Muay Thai 3x/week
+- 🍳 Experimenting with recipes
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+*Open to discussing architecture patterns, mentoring opportunities, and collaborative projects.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-LuisMarchio03-181717?style=for-the-badge&logo=github)](https://github.com/LuisMarchio03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lmarchiodev)
+
+<img src="https://komarev.com/ghpvc/?username=LuisMarchio03&color=4A90E2&style=flat-square" alt="Profile Views" />
+
+<br>
+
+*Architecting tomorrow's solutions, one deployment at a time.*
+
+</div>
