@@ -27,24 +27,23 @@
 
 **Pleno Backend Developer** with 4+ years building scalable systems and architecting microservices. Passionate about clean code, distributed systems, and transforming complex problems into elegant solutions.
 
-Currently on a strategic trajectory toward **Software Architecture**, combining hands-on development expertise with cloud-native thinking and emerging AI/ML technologies.
+Currently on a strategic trajectory toward **DevSecOps** and **Cloud Architecture**, combining hands-on development expertise with robust infrastructure and emerging AI/ML technologies.
 
 ```yaml
 🎯 Current Focus:
-   - Software Architecture & Design Patterns
-   - Microsoft Azure Cloud Services
-   - Event-Driven Architectures
+   - DevSecOps & Cloud-Native Security
+   - Kubernetes (CKA/CKS) & IaC (Terraform)
+   - Microservices & Event-Driven Architectures
    - Machine Learning Integration in Healthcare
-   - Container Orchestration & DevOps
 
 📚 Education:
-   - Graduated: Sistemas de Informação (UNIFIMES)
-   - Pursuing:  ------
-   - Research: ML/Deep Learning for Parkinson's Diagnosis
+   - B.S. in Information Systems (UNIFIMES)
+   - Research: MLOps Architecture for Parkinson's MRI Classification
 
 🏆 On Track For:
-   - Microsoft Azure Certifications (AZ-900 → Solutions Architect)
-   - Software Architecture specialization
+   - CompTIA Security+
+   - CKA (Certified Kubernetes Administrator)
+   - CKS (Certified Kubernetes Security Specialist)
 ```
 
 </div>
