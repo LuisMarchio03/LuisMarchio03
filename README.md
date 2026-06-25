@@ -146,24 +146,23 @@ Currently on a strategic trajectory toward **DevSecOps** and **Cloud Architectur
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                   ARCHITECTURE ROADMAP                       ║
+║                 DEVSECOPS & CLOUD ROADMAP                    ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  PHASE 1: Foundation Strengthening (In Progress)            ║
-║  ├─ ✅ Microservices Patterns & Best Practices              ║
-║  ├─ ✅ Distributed Systems Fundamentals                     ║
-║  ├─ 🔄 Cloud Architecture (Azure)                           ║
-║  └─ 🔄 Event-Driven Design                                  ║
+║  PHASE 1: Security Foundations & AppSec                      ║
+║  ├─ 🔄 Networking, Linux & Crypto Basics                     ║
+║  ├─ 🔄 PortSwigger Web Security & OWASP Top 10               ║
+║  └─ 🎯 Goal: CompTIA Security+ Certification                 ║
 ║                                                              ║
-║  PHASE 2: Cloud & AI Integration (Q1 2026)                  ║
-║  ├─ Microsoft Azure Solutions Architect (AZ-305)            ║
-║  ├─ Machine Learning Integration                            ║
-║  └─ MLOps & Model Deployment                                ║
+║  PHASE 2: Infrastructure & Orchestration                     ║
+║  ├─ 🔄 Kubernetes Administration (K8s Architecture, RBAC)    ║
+║  ├─ 🔄 Infrastructure as Code (Terraform & GitLab CI)        ║
+║  └─ 🎯 Goal: CKA Certification                               ║
 ║                                                              ║
-║  PHASE 3: Architecture Mastery (Q2-Q3 2026)                 ║
-║  ├─ Advanced Design Patterns                                ║
-║  ├─ Team Leadership & Mentoring                             ║
-║  └─ Architecture Decision Records (ADRs)                    ║
+║  PHASE 3: DevSecOps Mastery                                  ║
+║  ├─ 🔄 Kubernetes Security Hardening (Kyverno/Falco)         ║
+║  ├─ 🔄 Secure Pipelines (Trivy, Semgrep, SBOM)               ║
+║  └─ 🎯 Goal: CKS Certification                               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -212,6 +211,7 @@ Currently on a strategic trajectory toward **DevSecOps** and **Cloud Architectur
 ## 🎮 Beyond Code
 
 When not architecting systems, you'll find me:
+- 🎸 Learning and playing the electric guitar
 - 🎵 Exploring metal & rock subgenres
 - 🎮 Gaming
 - 📚 Reading about programming, mythologies, and classical Greek philosophy.
