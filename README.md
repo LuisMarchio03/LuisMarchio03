@@ -175,7 +175,7 @@ Currently on a strategic trajectory toward **DevSecOps** and **Cloud Architectur
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **ALOY AI Assistant** | Intelligent voice assistant with Alexa integration and local deployment | Node.js, Python, AWS |
+| **ALOY AI Assistant** | Intelligent voice assistant with Alexa integration and local deployment | Node.js, Python, Go |
 | **Parkinson's ML Model** | Deep Learning model for Parkinson's disease diagnosis | TensorFlow, Python, Research |
 
 </div>
